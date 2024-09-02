@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bao-123
-- 👀 I’m interested in web development, Database, C (and others low-level programming languages like C++ or C#)
+- 👀 I’m interested in web development (I'm a fullstack web developer), Python, C/C++.
 - 🌱 I’m currently learning CS50 web
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me baomap040611vn@gmail.com (my email)
